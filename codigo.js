@@ -423,7 +423,7 @@ localStorage.setItem("imagenPrincipal2", classSelect4);
 				localStorage.setItem("producto", select.textContent);
 				localStorage.setItem("precio", hijoNextHermano.textContent);
 
-console.log(hijoNextHermano.textContent.substr(3));
+// console.log(hijoNextHermano.textContent.substr(3));
 				location.href = "form.html";
 			} 
 			else if(classSelect2 == "imgs"){    
@@ -436,7 +436,7 @@ localStorage.setItem("imagenPrincipal2", classSelect4);
 				localStorage.setItem("producto", hermanoPadreSelect.textContent);
 				localStorage.setItem("precio", hijoHermano2HermanoPadreSelect.textContent);
 
-console.log(hijoHermano2HermanoPadreSelect.textContent.substr(3));
+// console.log(hijoHermano2HermanoPadreSelect.textContent.substr(3));
 				location.href = "form.html";
 			}
 		}
