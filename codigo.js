@@ -442,7 +442,7 @@ localStorage.setItem("imagenPrincipal2", classSelect4);
 		}
 		
 })
-console.log(textHijoNextHermano.substr(3));
+// console.log(textHijoNextHermano.substr(3));
 
 // const imagenWhatsapp = document.querySelector(".imagen-para-whats")
 
